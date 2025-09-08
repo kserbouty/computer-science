@@ -1,0 +1,45 @@
+<h1 align="center">Computer Science</h1>
+
+<p align="center">
+    <br>
+    <img src="assets/computer-science-logo.png" alt="computer-science-logo" width="319" height="400"/>
+    <br>
+</p>
+
+<br>
+
+<p align="center">
+    <a href="https://openjdk.org/projects/jdk-updates/">
+        <img src="https://img.shields.io/badge/java-21-B07219?style=flat&logo=openjdk"
+        alt="java-21" /></a>
+    <a href="https://adoptium.net/temurin/releases">
+        <img src="https://img.shields.io/badge/openjdk-temurin-FF1464?style=flat&logo=openjdk"
+        alt="openjdk-temurin" /></a>
+    <a href="./LICENSE.md">
+        <img src="https://img.shields.io/badge/license-mit-181717?style=flat&logo=github"
+        alt="mit-license" /></a>
+    <a href="https://gitlab.com/serbouty/algorithms">
+        <img src="https://img.shields.io/badge/status-backlog-lightgrey?style=flat&logo=github"
+        alt="status-backlog" /></a>
+</p>
+
+## Documentation
+
+### Princeton University
+
+- [Computer Science, 1st Edition](https://introcs.cs.princeton.edu/java/home/)
+
+### External Links
+
+- [Java® Platform, SE & JDK
+  Version 21 API Specification](https://docs.oracle.com/en/java/javase/21/docs/api/index.html)
+
+## Roadmap
+
+- [ ] [Chapter 5: Theory of Computing](https://introcs.cs.princeton.edu/java/50theory)
+- [ ] [Chapter 6: A Computing Machine](https://introcs.cs.princeton.edu/java/60machine)
+- [ ] [Chapter 7: Building a Computer](https://introcs.cs.princeton.edu/java/70circuits)
+
+## License
+
+This project is released under [the MIT License](./LICENSE.md).
