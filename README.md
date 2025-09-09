@@ -16,12 +16,16 @@
         <img src="https://img.shields.io/badge/openjdk-temurin-FF1464?style=flat&logo=openjdk"
         alt="openjdk-temurin" /></a>
     <a href="./LICENSE.md">
-        <img src="https://img.shields.io/badge/license-mit-181717?style=flat&logo=github"
+        <img src="https://img.shields.io/badge/license-mit-lightgrey?style=flat&logo=github"
         alt="mit-license" /></a>
-    <a href="https://gitlab.com/serbouty/algorithms">
+    <a href="https://github.com/serbouty/computer-science">
         <img src="https://img.shields.io/badge/status-backlog-lightgrey?style=flat&logo=github"
         alt="status-backlog" /></a>
 </p>
+
+## About
+
+Continuation of [Introduction to Programming in Java](https://github.com/kserbouty/programming-java), exploring core ideas of Turing, von Neumann, Shannon, and others.
 
 ## Documentation
 
