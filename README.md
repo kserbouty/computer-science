@@ -43,7 +43,7 @@ Textbook coauthored by [Robert Sedgewick](https://www.cs.princeton.edu/people/pr
 
 ### Prerequisites
 
-- [ ] [Introduction to Programming in Java](https://github.com/kserbouty/programming-java)
+- [ ] [Introduction to Programming in Java (GitHub)](https://github.com/kserbouty/programming-java)
 
 ### Textbook
 
