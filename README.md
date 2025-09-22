@@ -29,23 +29,16 @@ Exploring core ideas of Turing, von Neumann, Shannon, and other important figure
 
 Textbook coauthored by [Robert Sedgewick](https://www.cs.princeton.edu/people/profile/rs) and [Kevin Wayne](https://www.cs.princeton.edu/people/profile/wayne) at Princeton University.
 
-## Documentation
+## Related Projects
 
-### Princeton
+- [Introduction to Programming in Java (GitHub)](https://github.com/kserbouty/programming-java)
+
+## Support
 
 - [Computer Science, 1st Edition (Princeton)](https://introcs.cs.princeton.edu/java/home/)
-
-### External Links
-
-- [JDK 21 Documentation (Oracle)](https://docs.oracle.com/en/java/javase/21/)
+- [Java SE 21 & JDK 21 API Specification (Oracle)](https://docs.oracle.com/en/java/javase/21/)
 
 ## Roadmap
-
-### Prerequisites
-
-- [ ] [Introduction to Programming in Java (GitHub)](https://github.com/kserbouty/programming-java)
-
-### Textbook
 
 - [ ] [Chapter 5: Theory of Computing](https://introcs.cs.princeton.edu/java/50theory)
 - [ ] [Chapter 6: A Computing Machine](https://introcs.cs.princeton.edu/java/60machine)
