@@ -1,7 +1,7 @@
 # Default
 *                   text=auto
 
-# Source
+# Scripts
 *.java              text diff=java
 
 # Configuration
